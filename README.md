@@ -1,4 +1,4 @@
-I'm a data journalist, learning the ropes of data science to help me tell better stories. 
+I'm a data journalist, learning the ropes of data science to help me tell better stories. I am interested in stories about how government policies affect everyday people. You can find my writing at theijf.org, or localnewsdatahub.ca
 
 <!--
 **CarlyPenrose/CarlyPenrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
