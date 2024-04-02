@@ -1,4 +1,4 @@
-### Hi, my name is Carly Penrose. I'm a data journalist, learning the ropes of data science to help me tell better stories. 
+I'm a data journalist, learning the ropes of data science to help me tell better stories. 
 
 <!--
 **CarlyPenrose/CarlyPenrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
